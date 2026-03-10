@@ -1,8 +1,8 @@
-Type "make" in your terminal to compile.
+Type "make" in your terminal to compile.\n
 Run "./snake_game" binary to play.
 
-MAKE:
-make -> compiles "snake_game" binary
-make clean -> remove .o files
-make fclean -> remove .o files and binary
+MAKE:\n
+make -> compiles "snake_game" binary\n
+make clean -> remove .o files\n
+make fclean -> remove .o files and binary\n
 make re -> recompiles code
